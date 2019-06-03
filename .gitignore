@@ -10,3 +10,5 @@ gen
 server/apache-tomcat-9.0.19/logs
 server/apache-tomcat-9.0.19/temp
 server/apache-tomcat-9.0.19/work
+server/apache-tomcat-9.0.19/webapps/h2/WEB-INF/classes/
+server/apache-tomcat-9.0.19/bin/camunda-h2-dbs/process-engine.mv.db
